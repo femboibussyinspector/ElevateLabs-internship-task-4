@@ -207,7 +207,7 @@ h2 {
 
 .inspiration {
     min-height: 90vh;
-    background: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.9)), url('https://images.unsplash.com/photo-1503265192943-9d7eea6fc77a?auto=format&fit=crop&w=1950') no-repeat center center/cover;
+    background: linear-gradient(rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.9)), url('https://images.unsplash.com/photo-1619441207978-3d326c46e2c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8amFwYW4lMjBuYXR1cmV8ZW58MHwwfDB8fHww') no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
